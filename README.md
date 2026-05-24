@@ -1,16 +1,101 @@
-<h1 align="center">Hi 👋, I'm MD. Mushfiqur Rahman Mushfique</h1>
-<h3 align="center">A passionate Game Developer from Bangladesh</h3>
+<!-- Md. Mushfiqur Rahman Mushfique — github.com/i-am-mushfiq -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-mushfiq" alt="i-am-mushfiq" /></a> </p>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-mushfiq-b4a254215 /" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-mushfiq-b4a254215 /" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/iammushfiq9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/iammushfiq9" height="30" width="40" /></a>
-</p>
+# Md. Mushfiqur Rahman Mushfique
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+**Software Engineer · ML/CV Researcher · Product Engineer**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-mushfiq&show_icons=true&locale=en&layout=compact" alt="i-am-mushfiq" /></p>
+I build systems that sit at the edge of what's well-understood —<br>
+and work backward from there until they're reliable.
 
+[![Email](https://img.shields.io/badge/mushfique2%40iut--dhaka.edu-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:mushfique2@iut-dhaka.edu)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/i--am--mushfiq-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-am-mushfiq/)
+
+</div>
+
+---
+
+## Research
+
+I publish at the intersection of machine learning, computer vision, and applied science.
+
+| Paper | Venue | Area |
+|---|---|---|
+| Asteroid Family Classification Using Machine Learning | *Experimental Astronomy* — Q2 | Orbital mechanics · ML |
+| FirstAidQA: A Benchmark for First Aid Question Answering | NeurIPS Workshop | Clinical NLP · QA |
+
+**Undergraduate Thesis** — *Orthographic Gaussian Splatting from CT Radiographs*
+
+3D reconstruction from clinical CT sequences using a Gaussian Splatting approach adapted for orthographic projection geometry. Bridges volumetric rendering and medical imaging — a problem with meaningful real-world constraints and no clean off-the-shelf solution.
+
+---
+
+## Engineering
+
+### IUT Mars Rover — Senior Executive, Software Team
+
+Led software development for a competitive Mars rover that placed **top 15 globally** at the International Rover Design Challenge. Built and integrated the autonomy, telemetry, and computer vision subsystems. Responsible for architectural decisions under real hardware constraints — power budgets, latency limits, field reliability.
+
+```
+ROS · C++ · Python · embedded Linux · computer vision · state machines
+```
+
+The kind of project where the codebase has to work in a desert. Not a demo.
+
+---
+
+### Selected Technical Domains
+
+```
+Computer Vision       ████████████░   3D reconstruction · neural rendering · medical imaging
+Machine Learning      ███████████░░   Classification · NLP · safety-constrained RL
+Embedded / IoT        ████████████░   Real-time systems · ROS · hardware-software co-design  
+Spatial / XR          █████████░░░░   Unity · Meta Quest 3 · immersive interfaces
+Product Engineering   ███████████░░   Platform-scale PM · 0→1 builds · technical strategy
+Orbital Mechanics     ████████░░░░░   Astrodynamics · GNC-adjacent · Kerbal-serious
+```
+
+---
+
+## Stack
+
+**Languages** — `Python` `C++` `C` `C#` `JavaScript`
+
+**ML / Vision** — `PyTorch` `HuggingFace` `OpenCV` `3D Gaussian Splatting` `scikit-learn`
+
+**Systems** — `ROS/ROS2` `FreeRTOS` `embedded Linux` `CUDA` `ARM Cortex`
+
+**Spatial** — `Unity` `Meta XR SDK` `WebGL`
+
+**Infra** — `Docker` `Linux` `Git`
+
+---
+
+## Currently
+
+Exploring safety-constrained reinforcement learning for spacecraft proximity operations — Clohessy-Wiltshire dynamics, Control Barrier Functions, Soft Actor-Critic. A problem that demands both mathematical rigor and engineering discipline to get anywhere meaningful.
+
+Also: mechanistic interpretability of transformer internals. Less because it's trendy, more because understanding *why* a model does what it does is a precondition for trusting it.
+
+---
+
+## On how I work
+
+Research and engineering are the same activity at different timescales. A paper without implementation is speculation. An implementation without theoretical grounding is fragile. I don't find the distinction useful.
+
+I'm drawn to problems where the failure modes are non-obvious, the feedback is slow, and getting it right actually matters.
+
+---
+
+<div align="center">
+
+`Islamic University of Technology, Dhaka` · BSc Software Engineering
+
+`Dhaka, Bangladesh` · Open to research collaborations and hard engineering problems
+
+[mushfique2@iut-dhaka.edu](mailto:mushfique2@iut-dhaka.edu) · [linkedin.com/in/i-am-mushfiq](https://www.linkedin.com/in/i-am-mushfiq/)
+
+<sub>GitHub stats omitted. Repos reflect active work, not commit streaks.</sub>
+
+</div>
