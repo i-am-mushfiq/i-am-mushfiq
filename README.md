@@ -69,6 +69,9 @@ Product Engineering   ███████████░░   Platform-scale P
 Orbital Mechanics     ████████░░░░░   Astrodynamics · GNC-adjacent · Kerbal-serious
 ```
 
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/c82719a6-b4b7-4e09-97ce-b01eedb1cd6c" />
+
+
 ---
 
 ## Stack
