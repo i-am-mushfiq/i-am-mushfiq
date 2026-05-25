@@ -31,6 +31,16 @@ I publish at the intersection of machine learning, computer vision, and applied 
 
 ---
 
+## Previous organizations
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d046a181-563d-44f3-952c-8a69e821db27" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4dfe0512-95bb-4294-a9b3-56ca3f90bbea" />
+<img width="1200" height="627" alt="image" src="https://github.com/user-attachments/assets/39a4c9bc-9d44-47a7-b4c3-e1505d899314" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f8007051-2af5-4152-b74e-b885f59dd20c" />
+
+
+
+
+
 ## Engineering
 
 ### IUT Mars Rover — Senior Executive, Software Team
