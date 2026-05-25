@@ -25,6 +25,11 @@ I publish at the intersection of machine learning, computer vision, and applied 
 | Asteroid Family Classification Using Machine Learning | *Experimental Astronomy* — Q2 | Orbital mechanics · ML |
 | FirstAidQA: A Benchmark for First Aid Question Answering | NeurIPS Workshop | Clinical NLP · QA |
 
+<img width="230" height="348" alt="image" src="https://github.com/user-attachments/assets/7634d949-6ed3-4b42-b4cb-18d4d12ac8ef" />
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/5fd38cc4-7923-4ec1-98f2-1222f9be6f30" />
+
+
 **Undergraduate Thesis** — *Orthographic Gaussian Splatting from CT Radiographs*
 
 3D reconstruction from clinical CT sequences using a Gaussian Splatting approach adapted for orthographic projection geometry. Bridges volumetric rendering and medical imaging — a problem with meaningful real-world constraints and no clean off-the-shelf solution.
