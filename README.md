@@ -40,6 +40,8 @@ I publish at the intersection of machine learning, computer vision, and applied 
 ## Engineering
 
 ### IUT Mars Rover — Senior Executive, Software Team
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4625dd1e-0dbb-43ed-8d15-700c35a054a7" />
+
 
 Led software development for a competitive Mars rover that placed **top 15 globally** at the International Rover Design Challenge. Built and integrated the autonomy, telemetry, and computer vision subsystems. Responsible for architectural decisions under real hardware constraints — power budgets, latency limits, field reliability.
 
