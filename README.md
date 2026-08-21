@@ -4,7 +4,7 @@
 
 # Md. Mushfiqur Rahman Mushfique
 
-### Software Engineer · ML/CV Researcher · Product Engineer
+**Software Engineer · ML/CV Researcher · Product Engineer**
 
 I build systems that sit at the edge of what's well-understood —<br>
 and work backward from there until they're reliable.
@@ -20,16 +20,18 @@ and work backward from there until they're reliable.
 
 I publish at the intersection of **machine learning, computer vision, and applied science**.
 
-| Publication                                                  | Venue                         | Focus                                |
-| ------------------------------------------------------------ | ----------------------------- | ------------------------------------ |
-| **Asteroid Family Classification Using Machine Learning**    | *Experimental Astronomy* · Q2 | Orbital Mechanics · Machine Learning |
-| **FirstAidQA: A Benchmark for First Aid Question Answering** | NeurIPS Workshop              | Clinical NLP · Question Answering    |
+| Publication                                                  | Venue                         | Focus                  |
+| ------------------------------------------------------------ | ----------------------------- | ---------------------- |
+| **Asteroid Family Classification Using Machine Learning**    | *Experimental Astronomy* · Q2 | Orbital Mechanics · ML |
+| **FirstAidQA: A Benchmark for First Aid Question Answering** | NeurIPS Workshop              | Clinical NLP · QA      |
 
 <div align="center">
 
-<img width="230" height="348" alt="Asteroid research" src="https://github.com/user-attachments/assets/7634d949-6ed3-4b42-b4cb-18d4d12ac8ef" />
+<img width="220" alt="Asteroid research" src="https://github.com/user-attachments/assets/7634d949-6ed3-4b42-b4cb-18d4d12ac8ef" />
 
-<img width="800" height="400" alt="FirstAidQA research" src="https://github.com/user-attachments/assets/5fd38cc4-7923-4ec1-98f2-1222f9be6f30" />
+<br>
+
+<img width="700" alt="FirstAidQA research" src="https://github.com/user-attachments/assets/5fd38cc4-7923-4ec1-98f2-1222f9be6f30" />
 
 </div>
 
@@ -45,10 +47,10 @@ I publish at the intersection of **machine learning, computer vision, and applie
 
 <div align="center">
 
-<img height="200" alt="Organization 1" src="https://github.com/user-attachments/assets/d046a181-563d-44f3-952c-8a69e821db27" />
-<img height="200" alt="Organization 2" src="https://github.com/user-attachments/assets/4dfe0512-95bb-4294-a9b3-56ca3f90bbea" />
-<img height="200" alt="Organization 3" src="https://github.com/user-attachments/assets/39a4c9bc-9d44-47a7-b4c3-e1505d899314" />
-<img height="200" alt="Organization 4" src="https://github.com/user-attachments/assets/f8007051-2af5-4152-b74e-b885f59dd20c" />
+<img height="150" alt="Organization 1" src="https://github.com/user-attachments/assets/d046a181-563d-44f3-952c-8a69e821db27" />
+<img height="150" alt="Organization 2" src="https://github.com/user-attachments/assets/4dfe0512-95bb-4294-a9b3-56ca3f90bbea" />
+<img height="150" alt="Organization 3" src="https://github.com/user-attachments/assets/39a4c9bc-9d44-47a7-b4c3-e1505d899314" />
+<img height="150" alt="Organization 4" src="https://github.com/user-attachments/assets/f8007051-2af5-4152-b74e-b885f59dd20c" />
 
 </div>
 
@@ -62,21 +64,13 @@ I publish at the intersection of **machine learning, computer vision, and applie
 
 <div align="center">
 
-<img width="600" height="600" alt="IUT Mars Rover" src="https://github.com/user-attachments/assets/4625dd1e-0dbb-43ed-8d15-700c35a054a7" />
+<img width="500" alt="IUT Mars Rover" src="https://github.com/user-attachments/assets/4625dd1e-0dbb-43ed-8d15-700c35a054a7" />
 
 </div>
 
 Led software development for a competitive Mars rover that placed **top 15 globally** at the International Rover Design Challenge.
 
-Built and integrated the rover's:
-
-* Autonomy stack
-* Telemetry systems
-* Computer vision pipeline
-* State-machine architecture
-* Hardware/software interfaces
-
-Responsible for architectural decisions under real hardware constraints — power budgets, latency limits, unreliable communications, and field reliability.
+Built and integrated the rover's autonomy, telemetry, and computer vision subsystems. Responsible for architectural decisions under real hardware constraints — power budgets, latency limits, field reliability, and hardware/software integration.
 
 `ROS` · `C++` · `Python` · `Embedded Linux` · `Computer Vision` · `State Machines`
 
@@ -97,7 +91,7 @@ Orbital Mechanics     ████████░░░░░   Astrodynamics ·
 
 <div align="center">
 
-<img width="1400" height="350" alt="Technical work" src="https://github.com/user-attachments/assets/c82719a6-b4b7-4e09-97ce-b01eedb1cd6c" />
+<img width="1000" alt="Technical work" src="https://github.com/user-attachments/assets/c82719a6-b4b7-4e09-97ce-b01eedb1cd6c" />
 
 </div>
 
