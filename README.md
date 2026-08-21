@@ -4,160 +4,300 @@
 
 # Md. Mushfiqur Rahman Mushfique
 
-**Software Engineer · ML/CV Researcher · Product Engineer**
+### Software Engineer · ML/CV Researcher · Product Engineer
 
-I build systems that sit at the edge of what's well-understood —<br>
-and work backward from there until they're reliable.
-
-[![Email](https://img.shields.io/badge/mushfique2%40iut--dhaka.edu-1a1a2e?style=flat-square\&logo=gmail\&logoColor=white)](mailto:mushfique2@iut-dhaka.edu) 
-[![LinkedIn](https://img.shields.io/badge/i--am--mushfiq-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/i-am-mushfiq/)
-
-</div>
-
----
-
-## Research
-
-I publish at the intersection of **machine learning, computer vision, and applied science**.
-
-| Publication                                                  | Venue                         | Focus                  |
-| ------------------------------------------------------------ | ----------------------------- | ---------------------- |
-| **Asteroid Family Classification Using Machine Learning**    | *Experimental Astronomy* · Q2 | Orbital Mechanics · ML |
-| **FirstAidQA: A Benchmark for First Aid Question Answering** | NeurIPS Workshop              | Clinical NLP · QA      |
-
-<div align="center">
-
-<img width="220" alt="Asteroid research" src="https://github.com/user-attachments/assets/7634d949-6ed3-4b42-b4cb-18d4d12ac8ef" />
+**I build systems where software meets physical constraints, scientific problems, and real-world uncertainty.**
 
 <br>
 
-<img width="700" alt="FirstAidQA research" src="https://github.com/user-attachments/assets/5fd38cc4-7923-4ec1-98f2-1222f9be6f30" />
+[![Email](https://img.shields.io/badge/Email-mushfique2%40iut--dhaka.edu-1a1a2e?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mushfique2@iut-dhaka.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-i--am--mushfiq-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/i-am-mushfiq/)
 
-</div>
+<br><br>
 
-### Undergraduate Thesis
-
-**Orthographic Gaussian Splatting from CT Radiographs**
-
-3D reconstruction from clinical CT sequences using a Gaussian Splatting approach adapted for orthographic projection geometry. Bridges volumetric rendering and medical imaging — a problem with meaningful real-world constraints and no clean off-the-shelf solution.
-
----
-
-## Previous Organizations
-
-<div align="center">
-
-<img height="150" alt="Organization 1" src="https://github.com/user-attachments/assets/d046a181-563d-44f3-952c-8a69e821db27" />
-<img height="150" alt="Organization 2" src="https://github.com/user-attachments/assets/4dfe0512-95bb-4294-a9b3-56ca3f90bbea" />
-<img height="150" alt="Organization 3" src="https://github.com/user-attachments/assets/39a4c9bc-9d44-47a7-b4c3-e1505d899314" />
-<img height="150" alt="Organization 4" src="https://github.com/user-attachments/assets/f8007051-2af5-4152-b74e-b885f59dd20c" />
+<img width="900" alt="Technical portfolio" src="https://github.com/user-attachments/assets/c82719a6-b4b7-4e09-97ce-b01eedb1cd6c" />
 
 </div>
 
 ---
 
-## Engineering
+## About
 
-### IUT Mars Rover
+I'm a software engineer working across **machine learning, computer vision, robotics, embedded systems, spatial computing, and product engineering**.
 
-**Senior Executive · Software Team**
+My work tends to sit in the intersection between disciplines: reconstructing 3D structure from medical imaging, applying machine learning to orbital mechanics, building autonomous robotic systems, and exploring safety-constrained reinforcement learning for spacecraft operations.
+
+I prefer problems where the solution cannot simply be assembled from an existing tutorial.
+
+---
+
+# Research
+
+My research interests span **machine learning, computer vision, scientific computing, and intelligent systems**.
+
+### Publications
+
+|    | Publication                                                  | Venue                         | Domain                 |
+| -- | ------------------------------------------------------------ | ----------------------------- | ---------------------- |
+| 01 | **Asteroid Family Classification Using Machine Learning**    | *Experimental Astronomy* · Q2 | Orbital Mechanics · ML |
+| 02 | **FirstAidQA: A Benchmark for First Aid Question Answering** | NeurIPS Workshop              | Clinical NLP · QA      |
 
 <div align="center">
 
-<img width="500" alt="IUT Mars Rover" src="https://github.com/user-attachments/assets/4625dd1e-0dbb-43ed-8d15-700c35a054a7" />
+<img width="250" alt="Asteroid research" src="https://github.com/user-attachments/assets/7634d949-6ed3-4b42-b4cb-18d4d12ac8ef" />
 
 </div>
 
-Led software development for a competitive Mars rover that placed **top 15 globally** at the International Rover Design Challenge.
+<br>
 
-Built and integrated the rover's autonomy, telemetry, and computer vision subsystems. Responsible for architectural decisions under real hardware constraints — power budgets, latency limits, field reliability, and hardware/software integration.
+<div align="center">
 
-`ROS` · `C++` · `Python` · `Embedded Linux` · `Computer Vision` · `State Machines`
+<img width="780" alt="FirstAidQA research" src="https://github.com/user-attachments/assets/5fd38cc4-7923-4ec1-98f2-1222f9be6f30" />
+
+</div>
+
+---
+
+## Undergraduate Thesis
+
+### Orthographic Gaussian Splatting from CT Radiographs
+
+**3D reconstruction · Medical imaging · Neural rendering**
+
+A Gaussian Splatting approach adapted for **orthographic projection geometry**, applied to clinical CT sequences.
+
+The work sits at the intersection of volumetric rendering and medical imaging, where the geometry, projection model, and reconstruction problem introduce constraints that conventional Gaussian Splatting pipelines are not designed around.
+
+---
+
+# Engineering
+
+## IUT Mars Rover
+
+### Senior Executive · Software Team
+
+<div align="center">
+
+<img width="560" alt="IUT Mars Rover" src="https://github.com/user-attachments/assets/4625dd1e-0dbb-43ed-8d15-700c35a054a7" />
+
+</div>
+
+<br>
+
+**Top 15 globally — International Rover Design Challenge**
+
+Led software development for a competitive Mars rover, working across autonomy, telemetry, computer vision, and hardware/software integration.
+
+The engineering environment was fundamentally different from conventional application development. Architecture had to account for:
+
+* Limited power budgets
+* Hardware constraints
+* Communication latency
+* Sensor uncertainty
+* Real-time behavior
+* Field reliability
+* Failure recovery
+
+**Core stack**
+
+`ROS` `C++` `Python` `Embedded Linux` `Computer Vision` `State Machines`
 
 > The kind of project where the codebase has to work in a desert. Not a demo.
 
 ---
 
-## Technical Domains
-
-```text
-Computer Vision       ████████████░   3D reconstruction · neural rendering · medical imaging
-Machine Learning      ███████████░░   Classification · NLP · safety-constrained RL
-Embedded / IoT        ████████████░   Real-time systems · ROS · hardware-software co-design
-Spatial / XR           █████████░░░░   Unity · Meta Quest 3 · immersive interfaces
-Product Engineering   ███████████░░   Platform-scale PM · 0→1 builds · technical strategy
-Orbital Mechanics     ████████░░░░░   Astrodynamics · GNC-adjacent · Kerbal-serious
-```
+# Organizations
 
 <div align="center">
 
-<img width="1000" alt="Technical work" src="https://github.com/user-attachments/assets/c82719a6-b4b7-4e09-97ce-b01eedb1cd6c" />
+<img height="170" alt="Organization 1" src="https://github.com/user-attachments/assets/d046a181-563d-44f3-952c-8a69e821db27" />
+&nbsp;&nbsp;
+<img height="170" alt="Organization 2" src="https://github.com/user-attachments/assets/4dfe0512-95bb-4294-a9b3-56ca3f90bbea" />
+&nbsp;&nbsp;
+<img height="170" alt="Organization 3" src="https://github.com/user-attachments/assets/39a4c9bc-9d44-47a7-b4c3-e1505d899314" />
+&nbsp;&nbsp;
+<img height="170" alt="Organization 4" src="https://github.com/user-attachments/assets/f8007051-2af5-4152-b74e-b885f59dd20c" />
 
 </div>
 
 ---
 
-## Stack
+# Technical Focus
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Python` `C++` `C` `C#` `JavaScript`
+### Computer Vision
 
-**ML / Computer Vision**
+`OpenCV`
+`3D Reconstruction`
+`Gaussian Splatting`
+`Neural Rendering`
+`Medical Imaging`
 
-`PyTorch` `HuggingFace` `OpenCV` `3D Gaussian Splatting` `scikit-learn`
+</td>
+<td width="50%" valign="top">
 
-**Systems**
+### Machine Learning
 
-`ROS / ROS2` `FreeRTOS` `Embedded Linux` `CUDA` `ARM Cortex`
+`PyTorch`
+`HuggingFace`
+`scikit-learn`
+`NLP`
+`Reinforcement Learning`
 
-**Spatial / XR**
+</td>
+</tr>
 
-`Unity` `Meta XR SDK` `WebGL`
+<tr>
+<td width="50%" valign="top">
 
-**Infrastructure**
+### Robotics & Systems
 
-`Docker` `Linux` `Git`
+`ROS / ROS2`
+`C++`
+`FreeRTOS`
+`Embedded Linux`
+`ARM Cortex`
+`CUDA`
+
+</td>
+<td width="50%" valign="top">
+
+### Spatial Computing
+
+`Unity`
+`Meta XR SDK`
+`WebGL`
+`3D Graphics`
+`Immersive Interfaces`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Product Engineering
+
+`0 → 1 Products`
+`Platform Architecture`
+`Technical Strategy`
+`System Design`
+`Product Management`
+
+</td>
+<td width="50%" valign="top">
+
+### Scientific Computing
+
+`Astrodynamics`
+`Orbital Mechanics`
+`Clohessy-Wiltshire Dynamics`
+`GNC-adjacent Systems`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently
+# Stack
 
-Exploring **safety-constrained reinforcement learning for spacecraft proximity operations**, combining Clohessy-Wiltshire dynamics, Control Barrier Functions, and Soft Actor-Critic.
+<div align="center">
 
-The problem demands both mathematical rigor and engineering discipline: the challenge is not simply training an agent, but constructing a system whose behavior remains constrained by the physics and safety requirements of the environment.
+### Languages
 
-Also exploring **mechanistic interpretability of transformer internals** — less because it is fashionable, more because understanding *why* a model does what it does is a precondition for trusting it.
+`Python` · `C++` · `C` · `C#` · `JavaScript`
+
+### ML / Vision
+
+`PyTorch` · `HuggingFace` · `OpenCV` · `3D Gaussian Splatting` · `scikit-learn`
+
+### Systems
+
+`ROS` · `ROS2` · `FreeRTOS` · `Embedded Linux` · `CUDA` · `ARM Cortex`
+
+### Spatial
+
+`Unity` · `Meta XR SDK` · `WebGL`
+
+### Infrastructure
+
+`Docker` · `Linux` · `Git`
+
+</div>
 
 ---
 
-## How I Work
+# Currently Exploring
 
-Research and engineering are the same activity at different timescales.
+## Safety-Constrained Reinforcement Learning for Spacecraft
 
-A paper without implementation is speculation. An implementation without theoretical grounding is fragile. I don't find the distinction particularly useful.
+I'm exploring reinforcement learning for **spacecraft proximity operations**, combining:
 
-I'm drawn to problems where:
+`Clohessy-Wiltshire Dynamics`
+`Control Barrier Functions`
+`Soft Actor-Critic`
 
-* The failure modes are non-obvious.
-* The feedback loop is slow.
-* The constraints are real.
-* Getting it right actually matters.
+The central problem is not simply whether an RL agent can learn a policy. It is whether the learned policy can operate within **hard physical and safety constraints** while remaining useful under realistic dynamics.
+
+That requires treating the problem simultaneously as:
+
+**Control theory + reinforcement learning + orbital mechanics + safety engineering.**
+
+---
+
+## Mechanistic Interpretability
+
+I'm also exploring the internals of transformer models, particularly methods for understanding **why a model produces a particular behavior rather than merely measuring whether it performs well**.
+
+The motivation is practical: interpretability becomes increasingly important when model behavior needs to be understood, constrained, or trusted.
+
+---
+
+# How I Work
+
+I don't find a strict distinction between research and engineering particularly useful.
+
+A paper without implementation can remain speculation.
+
+An implementation without theoretical grounding can remain fragile.
+
+The interesting work happens when both constrain each other.
+
+I'm particularly drawn to problems where:
+
+**The failure modes are non-obvious.**
+**The feedback loop is slow.**
+**The constraints are real.**
+**The system has to work outside a controlled demo.**
 
 ---
 
 <div align="center">
 
-### Islamic University of Technology, Dhaka
+## Education
+
+**Islamic University of Technology, Dhaka**
 
 `BSc Software Engineering`
 
-`Dhaka, Bangladesh` · Open to research collaborations and hard engineering problems
-
-[mushfique2@iut-dhaka.edu](mailto:mushfique2@iut-dhaka.edu) · [linkedin.com/in/i-am-mushfiq](https://www.linkedin.com/in/i-am-mushfiq/)
-
 <br>
 
-<sub>GitHub stats omitted. Repositories reflect active work, not commit streaks.</sub>
+`Dhaka, Bangladesh`
+
+Open to **research collaborations, technically difficult projects, and problems worth solving.**
+
+<br><br>
+
+[![Email](https://img.shields.io/badge/mushfique2%40iut--dhaka.edu-1a1a2e?style=flat-square\&logo=gmail\&logoColor=white)](mailto:mushfique2@iut-dhaka.edu)
+ 
+[![LinkedIn](https://img.shields.io/badge/i--am--mushfiq-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/i-am-mushfiq/)
+
+<br><br>
+
+<sub>GitHub statistics intentionally omitted. Repositories reflect active work, not commit streaks.</sub>
 
 </div>
