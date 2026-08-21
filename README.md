@@ -6,7 +6,8 @@
 
 ### Software Engineer · ML/CV Researcher · Product Engineer
 
-**I build systems where software meets physical constraints, scientific problems, and real-world uncertainty.**
+I build systems at the intersection of **software, intelligent systems, and financial infrastructure** —
+from machine learning and computer vision to transaction platforms and real-world products.
 
 <br>
 
@@ -23,11 +24,11 @@
 
 ## About
 
-I'm a software engineer working across **machine learning, computer vision, robotics, embedded systems, spatial computing, and product engineering**.
+I'm a software engineer working across **machine learning, computer vision, robotics, embedded systems, financial technology, spatial computing, and product engineering**.
 
-My work tends to sit in the intersection between disciplines: reconstructing 3D structure from medical imaging, applying machine learning to orbital mechanics, building autonomous robotic systems, and exploring safety-constrained reinforcement learning for spacecraft operations.
+My work tends to sit between disciplines: reconstructing 3D structure from medical imaging, applying machine learning to orbital mechanics, building autonomous robotic systems, and designing software platforms where **correctness, transactions, reliability, and real-world constraints** matter.
 
-I prefer problems where the solution cannot simply be assembled from an existing tutorial.
+I particularly enjoy problems where the engineering challenge extends beyond writing software — where architecture, failure modes, data integrity, and the surrounding physical or financial system all have to be understood.
 
 ---
 
@@ -46,11 +47,7 @@ My research interests span **machine learning, computer vision, scientific compu
 
 <img width="250" alt="Asteroid research" src="https://github.com/user-attachments/assets/7634d949-6ed3-4b42-b4cb-18d4d12ac8ef" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img width="780" alt="FirstAidQA research" src="https://github.com/user-attachments/assets/5fd38cc4-7923-4ec1-98f2-1222f9be6f30" />
 
@@ -98,11 +95,24 @@ The engineering environment was fundamentally different from conventional applic
 * Field reliability
 * Failure recovery
 
-**Core stack**
-
 `ROS` `C++` `Python` `Embedded Linux` `Computer Vision` `State Machines`
 
 > The kind of project where the codebase has to work in a desert. Not a demo.
+
+---
+
+# Financial Systems & Product Engineering
+
+My product-engineering work has increasingly focused on **financial infrastructure and transaction-heavy platforms**, where software correctness has consequences beyond the application itself.
+
+Areas of interest and experience include:
+
+`Payment Systems` · `Transaction Processing` · `Ledger Architecture` · `Financial APIs`
+`Platform Architecture` · `Merchant Systems` · `Digital Wallets` · `System Reliability`
+
+The interesting part of fintech isn't simply moving money through an API. It is building the surrounding system so that **every transaction can be accounted for, reconciled, recovered, audited, and trusted**.
+
+That changes how the software has to be designed.
 
 ---
 
@@ -128,13 +138,14 @@ The engineering environment was fundamentally different from conventional applic
 <tr>
 <td width="50%" valign="top">
 
-### Computer Vision
+### Financial Systems
 
-`OpenCV`
-`3D Reconstruction`
-`Gaussian Splatting`
-`Neural Rendering`
-`Medical Imaging`
+`Payment Infrastructure`
+`Transaction Processing`
+`Ledger Systems`
+`Digital Wallets`
+`Financial APIs`
+`Platform Architecture`
 
 </td>
 <td width="50%" valign="top">
@@ -153,6 +164,17 @@ The engineering environment was fundamentally different from conventional applic
 <tr>
 <td width="50%" valign="top">
 
+### Computer Vision
+
+`OpenCV`
+`3D Reconstruction`
+`Gaussian Splatting`
+`Neural Rendering`
+`Medical Imaging`
+
+</td>
+<td width="50%" valign="top">
+
 ### Robotics & Systems
 
 `ROS / ROS2`
@@ -163,6 +185,9 @@ The engineering environment was fundamentally different from conventional applic
 `CUDA`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### Spatial Computing
@@ -171,21 +196,6 @@ The engineering environment was fundamentally different from conventional applic
 `Meta XR SDK`
 `WebGL`
 `3D Graphics`
-`Immersive Interfaces`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Product Engineering
-
-`0 → 1 Products`
-`Platform Architecture`
-`Technical Strategy`
-`System Design`
-`Product Management`
 
 </td>
 <td width="50%" valign="top">
@@ -219,6 +229,10 @@ The engineering environment was fundamentally different from conventional applic
 
 `ROS` · `ROS2` · `FreeRTOS` · `Embedded Linux` · `CUDA` · `ARM Cortex`
 
+### Financial / Platform Engineering
+
+`Transaction Systems` · `Ledger Architecture` · `APIs` · `Distributed Systems` · `System Design`
+
 ### Spatial
 
 `Unity` · `Meta XR SDK` · `WebGL`
@@ -231,27 +245,21 @@ The engineering environment was fundamentally different from conventional applic
 
 ---
 
-# Currently Exploring
+# Currently
 
 ## Safety-Constrained Reinforcement Learning for Spacecraft
 
-I'm exploring reinforcement learning for **spacecraft proximity operations**, combining:
+Exploring reinforcement learning for **spacecraft proximity operations**, combining:
 
-`Clohessy-Wiltshire Dynamics`
-`Control Barrier Functions`
-`Soft Actor-Critic`
+`Clohessy-Wiltshire Dynamics` · `Control Barrier Functions` · `Soft Actor-Critic`
 
 The central problem is not simply whether an RL agent can learn a policy. It is whether the learned policy can operate within **hard physical and safety constraints** while remaining useful under realistic dynamics.
-
-That requires treating the problem simultaneously as:
-
-**Control theory + reinforcement learning + orbital mechanics + safety engineering.**
 
 ---
 
 ## Mechanistic Interpretability
 
-I'm also exploring the internals of transformer models, particularly methods for understanding **why a model produces a particular behavior rather than merely measuring whether it performs well**.
+Exploring the internals of transformer models, particularly methods for understanding **why a model produces a particular behavior rather than merely measuring whether it performs well**.
 
 The motivation is practical: interpretability becomes increasingly important when model behavior needs to be understood, constrained, or trusted.
 
@@ -267,12 +275,14 @@ An implementation without theoretical grounding can remain fragile.
 
 The interesting work happens when both constrain each other.
 
-I'm particularly drawn to problems where:
+I'm particularly drawn to systems where:
 
 **The failure modes are non-obvious.**
 **The feedback loop is slow.**
 **The constraints are real.**
 **The system has to work outside a controlled demo.**
+
+That applies equally to a rover in a field, a model operating under safety constraints, or a financial system where a single incorrect state can propagate through an entire transaction lifecycle.
 
 ---
 
@@ -288,7 +298,7 @@ I'm particularly drawn to problems where:
 
 `Dhaka, Bangladesh`
 
-Open to **research collaborations, technically difficult projects, and problems worth solving.**
+Open to **research collaborations, financial infrastructure, and technically difficult engineering problems.**
 
 <br><br>
 
